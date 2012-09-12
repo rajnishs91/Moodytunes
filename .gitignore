@@ -1,5 +1,10 @@
 *.class
+class raj{
 
+  public static void main(String arg[]){
+    System.out.println("\n heloo world");
+  }
+}
 # Package Files #
 *.jar
 *.war
